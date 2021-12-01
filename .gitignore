@@ -33,7 +33,7 @@
 
 
 # CLion
-main.dSYM
-cmake-build-debug
-*/main.dSYM
-*/cmake-build-debug
+main.dSYM/
+cmake-build-debug/
+**/main.dSYM/
+**/cmake-build-debug/
