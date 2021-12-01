@@ -35,5 +35,7 @@
 # CLion
 main.dSYM/
 cmake-build-debug/
+.idea/
 **/main.dSYM/
 **/cmake-build-debug/
+**/.idea/
